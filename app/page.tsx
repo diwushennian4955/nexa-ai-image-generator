@@ -358,7 +358,7 @@ export default function HomePage() {
         <p className={styles.textMuted}>
           Deploy your own instance →{' '}
           <a
-            href="https://github.com/nexaapi/vercel-image-generator"
+            href="https://github.com/diwushennian4955/nexa-ai-image-generator"
             target="_blank"
             rel="noopener noreferrer"
           >

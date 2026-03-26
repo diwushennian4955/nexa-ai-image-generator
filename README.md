@@ -3,7 +3,7 @@
 > A production-ready Next.js app that lets you generate AI images using 50+ models via NexaAPI.  
 > Deploy to Vercel in **one click** — no backend setup required.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnexaapi%2Fvercel-image-generator&env=NEXAAPI_KEY&envDescription=Get%20your%20free%20NexaAPI%20key%20at%20https%3A%2F%2Fnexa-api.com&envLink=https%3A%2F%2Fnexa-api.com&project-name=nexaapi-image-generator&repository-name=nexaapi-image-generator)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdiwushennian4955%2Fnexa-ai-image-generator&env=NEXAAPI_KEY&envDescription=Get%20your%20free%20NexaAPI%20key%20at%20https%3A%2F%2Fnexa-api.com&envLink=https%3A%2F%2Fnexa-api.com&project-name=nexaapi-image-generator&repository-name=nexaapi-image-generator)
 
 ---
 
@@ -33,7 +33,7 @@
 
 Click the button below — Vercel will ask for your `NEXAAPI_KEY` during setup:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnexaapi%2Fvercel-image-generator&env=NEXAAPI_KEY&envDescription=Get%20your%20free%20NexaAPI%20key%20at%20https%3A%2F%2Fnexa-api.com&envLink=https%3A%2F%2Fnexa-api.com&project-name=nexaapi-image-generator&repository-name=nexaapi-image-generator)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdiwushennian4955%2Fnexa-ai-image-generator&env=NEXAAPI_KEY&envDescription=Get%20your%20free%20NexaAPI%20key%20at%20https%3A%2F%2Fnexa-api.com&envLink=https%3A%2F%2Fnexa-api.com&project-name=nexaapi-image-generator&repository-name=nexaapi-image-generator)
 
 That's it! Your AI image generator will be live at `https://your-project.vercel.app` in ~2 minutes.
 
@@ -50,7 +50,7 @@ That's it! Your AI image generator will be live at `https://your-project.vercel.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/nexaapi/vercel-image-generator
+git clone https://github.com/diwushennian4955/nexa-ai-image-generator
 cd vercel-image-generator
 
 # 2. Install dependencies
