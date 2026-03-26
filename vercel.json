@@ -1,0 +1,10 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "env": {
+    "NEXAAPI_KEY": "your_nexaapi_key_here"
+  },
+  "regions": ["iad1"]
+}
